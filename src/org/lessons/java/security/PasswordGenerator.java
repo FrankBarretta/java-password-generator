@@ -4,13 +4,6 @@ import java.util.Scanner;
 
 public class PasswordGenerator {
     public static void main(String[] args) {
-        String defaultName = "Frank";
-        String defaultSurname = "Barrett";
-        String defaultColor = "Violet";
-        int defaultDay = 9;
-        int defaultMonth = 4;
-        int defaultYear = 1998;
-
 
         Scanner scanner = new Scanner(System.in);
 
